@@ -2,12 +2,14 @@
 Create thumbnails with: mogrify -format png -thumbnail x1024 -background white -alpha remove -path thumbnails -bordercolor black -border 3 *.png
 -->
 
-# Scientific Posters
+# Conference Posters
 
 There are some posters I designed for event or conferences I organized
 or co-organized. They are either in [pages
 (OSX)](https://www.apple.com/pages/) format.  Feel free
 to re-use them for designing your own if you like them.
+
+See also [Scientific Posters](https://github.com/rougier/scientific-posters)
 
 | [![][1.png]][1.pdf] | [![][2.png]][2.pdf] | [![][3.png]][3.pdf] | [![][4.png]][4.pdf] |
 | ------------------- | ------------------- | ------------------- | ------------------- |
