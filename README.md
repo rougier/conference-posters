@@ -4,10 +4,7 @@ Create thumbnails with: mogrify -format png -thumbnail x1024 -background white -
 
 # Conference Posters
 
-There are some posters I designed for event or conferences I organized
-or co-organized. They are either in [pages
-(OSX)](https://www.apple.com/pages/) format.  Feel free
-to re-use them for designing your own if you like them.
+There are some posters I designed for event or conferences I organized or co-organized. They are in [pages (OSX)](https://www.apple.com/pages/) format.  Feel free to re-use them for designing your own (if you like them).
 
 See also [Scientific Posters](https://github.com/rougier/scientific-posters)
 
