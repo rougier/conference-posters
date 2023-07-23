@@ -21,65 +21,65 @@ All posters are licensed under a [CC-BY International 4.0](https://creativecommo
 
 [1.png]: ./thumbnails/2015-Psyphine.png
 [1.pdf]: ./pdf/2015-Psyphine.pdf
-[1.pgs]: ./png/2015-Psyphine.pages
+[1.pgs]: ./src/2015-Psyphine.pages
 
 [2.png]: ./thumbnails/2015-Scipy.png
 [2.pdf]: ./pdf/2015-Scipy.pdf
-[2.pgs]: ./2015-Scipy.pages
+[2.pgs]: ./src/2015-Scipy.pages
 
 [3.png]: ./thumbnails/2016-Psyphine.png
 [3.pdf]: ./pdf/2016-Psyphine.pdf
-[3.pgs]: ./2016-Psyphine.pages
+[3.pgs]: ./src/2016-Psyphine.pages
 
 [4.png]: ./thumbnails/2017-Psyphine.png
 [4.pdf]: ./pdf/2017-Psyphine.pdf
-[4.pgs]: ./2017-Psyphine.pages
+[4.pgs]: ./src/2017-Psyphine.pages
 
 [5.png]: ./thumbnails/2017-SBDM.png
 [5.pdf]: ./pdf/2017-SBDM.pdf
-[5.pgs]: ./2017-SBDM.pages
+[5.pgs]: ./src/2017-SBDM.pages
 
 [6.png]: ./thumbnails/2018-CompNeuro.png
 [6.pdf]: ./pdf/2018-CompNeuro.pdf
-[6.pgs]: ./2018-CompNeuro.pages
+[6.pgs]: ./src/2018-CompNeuro.pages
 
 [7.png]: ./thumbnails/2019-URFIST.png
 [7.pdf]: ./pdf/2019-URFIST.pdf
-[7.pgs]: ./2019-URFIST.pages
+[7.pgs]: ./src/2019-URFIST.pages
 
 [8.png]: ./thumbnails/2020-Barba.png
 [8.pdf]: ./pdf/2020-Barba.pdf
-[8.pgs]: ./2020-Barba.pages
+[8.pgs]: ./src/2020-Barba.pages
 
 [9.png]: ./thumbnails/2020-TYRC.png
 [9.pdf]: ./pdf/2020-TYRC.pdf
-[9.pgs]: ./2020-TYRC.pages
+[9.pgs]: ./src/2020-TYRC.pages
 
 [10.png]: ./thumbnails/2021-DoDo.png
 [10.pdf]: ./pdf/2021-DoDo.pdf
-[10.pgs]: ./2021-DoDo.pages
+[10.pgs]: ./src/2021-DoDo.pages
 
 [11.png]: ./thumbnails/2022-Hypermondes.png
 [11.pdf]: ./pdf/2022-Hypermondes.pdf
-[11.pgs]: ./2022-Hypermondes.pages
+[11.pgs]: ./src/2022-Hypermondes.pages
 
 [12.png]: ./thumbnails/2022-IES.png
 [12.pdf]: ./pdf/2022-IES.pdf
-[12.pgs]: ./2022-IES.pages
+[12.pgs]: ./src/2022-IES.pages
 
 [13.png]: ./thumbnails/2022-Psyphine.png
 [13.pdf]: ./pdf/2022-Psyphine.pdf
-[13.pgs]: ./2022-Psyphine.pages
+[13.pgs]: ./src/2022-Psyphine.pages
 
 [14.png]: ./thumbnails/2023-Apertures.png
 [14.pdf]: ./pdf/2023-Apertures.pdf
-[14.pgs]: ./2023-Apertures.pages
+[14.pgs]: ./src/2023-Apertures.pages
 
 [15.png]: ./thumbnails/2023-DoDo.png
 [15.pdf]: ./pdf/2023-DoDo.pdf
-[15.pgs]: ./2023-DoDo.pages
+[15.pgs]: ./src/2023-DoDo.pages
 
 [16.png]: ./thumbnails/2023-FRRN.png
 [16.pdf]: ./pdf/2023-FRRN.pdf
-[16.pgs]: ./2023-FRRN.pages
+[16.pgs]: ./src/2023-FRRN.pages
 
